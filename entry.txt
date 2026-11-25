@@ -1,0 +1,1 @@
+FridgeLight is a $2-a-month app that logs every hour your fridge light spends off, so you finally have data on the 14 hours a day your leftovers sit in total darkness.
