@@ -1,1 +1,1 @@
-FridgeLight is a $2-a-month app that logs every hour your fridge light spends off, so you finally have data on the 14 hours a day your leftovers sit in total darkness.
+PetStare is a $6.99/month app that uses your phone's front camera to log how many seconds your dog stares at you while you sleep, then emails a weekly 'loyalty score' to your ex.
